@@ -30,6 +30,11 @@ latest_posts:
 
 (Website under construction) I am a PhD student at the [School of Electrical and Computer Engineering, Georgia Tech](https://ece.gatech.edu/), where I work with [Prof Kyriakos G. Vamvoudakis](https://kyriakos.ae.gatech.edu/). 
 
+<h3>Research Interests</h3>
+My research focuses on the control and security of cyber-physical systems, integrating concepts from control theory,
+game theory, optimization and machine learning. I develop model-based and model-free (data-driven) approaches for
+solving optimal control problems.
+
 <h3>Education</h3>
 - **Ph.D.,** Electrical and Computer Engineering, Georgia Institute of Technology, USA (2021 to Present)
 - **M.Sc.,** Aerospace Engineering, Georgia Institute of TEchnology, USA (2021 to Present)
