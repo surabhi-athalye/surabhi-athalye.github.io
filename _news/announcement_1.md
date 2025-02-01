@@ -5,6 +5,5 @@ inline: true
 related_posts: false
 ---
 
-##### American Control Conference (ACC) 2025, Denver, CO
-
+**American Control Conference (ACC) 2025, Denver, CO** <br>
 I will be presenting our paper **"Synthesis of Interacting Model-Based and Model-Free Controllers for Optimal Control"** in July.
