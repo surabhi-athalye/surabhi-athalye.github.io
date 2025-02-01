@@ -382,8 +382,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-american-control-conference-2025-denver-co-i-will-be-presenting-our-paper-synthesis-of-interacting-model-based-and-model-free-controllers-for-optimal-control-in-july",
+          title: 'American Control Conference 2025, Denver, CO I will be presenting our paper “Synthesis...',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
