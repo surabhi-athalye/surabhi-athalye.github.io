@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+**American Control Conference 2025, Denver, CO**
+I will be presenting our paper "Synthesis of Interacting Model-Based and Model-Free Controllers for Optimal Control" in July.
