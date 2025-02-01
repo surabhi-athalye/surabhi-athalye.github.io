@@ -36,6 +36,6 @@ game theory, optimization and machine learning. I develop model-based and model-
 solving optimal control problems.
 
 <h3>Education</h3>
-- **Ph.D.,** Electrical and Computer Engineering, Georgia Institute of Technology, USA (2021 to Present)
-- **M.Sc.,** Aerospace Engineering, Georgia Institute of Technology, USA (2021 to Present)
-- **B.Eng.,** Engineering Product Development, Singapore University of Technology and Design, Singapore (2016 to 2019)
+- **Ph. D.,** Electrical and Computer Engineering, Georgia Institute of Technology, USA (2021 to Present)
+- **M. Sc.,** Aerospace Engineering, Georgia Institute of Technology, USA (2021 to Present)
+- **B. Eng.,** Engineering Product Development, Singapore University of Technology and Design, Singapore (2016 to 2019)
