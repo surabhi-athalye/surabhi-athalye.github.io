@@ -385,9 +385,9 @@ ninja.data = [{
     },{id: "news-american-control-conference-acc-2025-denver-co-i-will-be-presenting-our-paper-synthesis-of-interacting-model-based-and-model-free-controllers-for-optimal-control-in-july",
           title: 'American Control Conference (ACC) 2025, Denver, CO I will be presenting our paper...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-aegis",
+          title: 'AEGIS',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
