@@ -2,7 +2,7 @@
 layout: page
 title: AEGIS
 description: 
-img: assets/img/12.jpg
+img: assets/img/aegis_process_flow_jpg_v2.jpg
 importance: 1
 category: Logic-based Defense
 related_publications: false
