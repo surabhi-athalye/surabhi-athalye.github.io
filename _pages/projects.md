@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 3
 display_categories: [Learning-based Control, Game-theoretic Defense & Control, Logic-based Defense]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
