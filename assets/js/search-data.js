@@ -382,8 +382,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-american-control-conference-acc-2025-denver-co-i-will-be-presenting-our-paper-synthesis-of-interacting-model-based-and-model-free-controllers-for-optimal-control-in-july",
-          title: 'American Control Conference (ACC) 2025, Denver, CO I will be presenting our paper...',
+    },{id: "news-american-control-conference-acc-2026-new-orleans-la-i-will-be-presenting-our-paper-data-conforming-model-free-stochastic-reinforcement-learning-in-may",
+          title: 'American Control Conference (ACC) 2026, New Orleans, LA I will be presenting our...',
           description: "",
           section: "News",},{id: "projects-aegis",
           title: 'AEGIS',
